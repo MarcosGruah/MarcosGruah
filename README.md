@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marcos 'Gruah' Almeida</h1>
+<h1 align="center">I'm Marcos 'Gruah' Almeida</h1>
 <h3 align="center">A Full-Stack Developer Student</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, MongoDB, Express, React and Node.**
