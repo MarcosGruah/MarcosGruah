@@ -1,7 +1,7 @@
 <h1 align="center">I'm Marcos 'Gruah' Almeida</h1>
 <h3 align="center">A Full-Stack Developer Student</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, MongoDB, Express, React and Node.**
+- Currently learning **HTML, CSS, JavaScript, MongoDB, Express, React and Node.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
